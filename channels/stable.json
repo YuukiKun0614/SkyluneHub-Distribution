@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "enabled": false,
+  "version": null,
+  "path": null,
+  "sha256": null,
+  "bytes": null,
+  "notes": "Stable release not published yet. Test obfuscated V118 on beta first."
+}

@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "channel": "beta",
+  "enabled": true,
+  "version": "1.0.1",
+  "path": "releases/v1.0.1/SkyluneHub.lua",
+  "sha256": "90179988d7fc886a7b8154e0dfb6e48db020cd5f5e2b41bcfd0d02155c3352eb",
+  "bytes": 3985583,
+  "notes": "V118 Config Isolation, obfuscated beta test. Not promoted to stable."
+}
